@@ -4,4 +4,10 @@
 ---
 > npm start
 
+- React
+- Context API
+- SASS
+- Bootstrap
+- Open Weather Api
+
 ![](./src/assets/projectImg.png)
